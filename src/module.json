@@ -1,8 +1,8 @@
 {
 	"id": "healthEstimate",
-	"title": "Health Estimate",
+	"title": "Health Estimate v11 Lancer",
 	"description": "Gives players ability to see approximate health status of a token",
-	"version": "30",
+	"version": "40",
 	"authors": [
 		{
 			"name": "Matheus Clemente",
